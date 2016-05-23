@@ -1,0 +1,25 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "cry-diary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tears"
+  ],
+  "author": "unknown",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
